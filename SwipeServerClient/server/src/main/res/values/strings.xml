@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">server</string>
+    <string name="server_started">Server started</string>
+    <string name="server_stopped">Server stopped</string>
+    <string name="server_running_response">Server is running</string>
+    <string name="websocket_connection_established">WebSocket connection established</string>
+    <string name="received_non_text_frame">Received non-text frame</string>
+    <string name="client_disconnected">Client disconnected</string>
+    <string name="error_saving_log">Error saving log</string>
+    <string name="error_fetching_logs">Error fetching logs</string>
+    <string name="port_label">Port</string>
+    <string name="enter_port">Enter port</string>
+    <string name="save">Сохранить</string>
+    <string name="back">Назад</string>
+    <string name="config">Config</string>
+    <string name="logs">Логи</string>
+    <string name="start">Начать</string>
+    <string name="stop">Выключить</string>
+    <string name="error_deleting_logs">Error deleting logs</string>
+    <string name="delete_all_logs">Удалить все логи</string>
+</resources>

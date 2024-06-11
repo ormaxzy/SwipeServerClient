@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">client</string>
+    <string name="error_sending_gesture_result">Error sending gesture result: %1$s</string>
+    <string name="error_sending_status_message">Error sending status message: %1$s</string>
+    <string name="error_decoding_gesture_data">Error decoding gesture data: %1$s</string>
+    <string name="error_connecting_to_websocket">Error connecting to WebSocket: %1$s</string>
+    <string name="ip_address">IP Address</string>
+    <string name="enter_ip">Enter IP</string>
+    <string name="port">Port</string>
+    <string name="enter_port">Enter port</string>
+    <string name="save">Сохранить</string>
+    <string name="config">Config</string>
+    <string name="pause">Пауза</string>
+    <string name="start">Начать</string>
+    <string name="received_message">Received message: %1$s</string>
+    <string name="google_url">http://www.google.com</string>
+    <string name="accessibility_permission_required">Требуется разрешение</string>
+    <string name="accessibility_permission_message">Приложению не предоставлено разрешение, пожалуйста, нажмите на кнопку настроек и предоставьте его или сделайте это вручную.</string>
+    <string name="settings">Настройки</string>
+    <string name="cancel">Отмена</string>
+    <string name="disconnect">Отключиться</string>
+</resources>
